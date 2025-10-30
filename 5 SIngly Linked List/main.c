@@ -143,15 +143,15 @@ int main(){
 
     // head = DeleteAtIndex(head, 2);
 
-    display(head);
+    // display(head);
 
-    int search = Search(34);
-    if (search != -1)
-    {
-        printf("I found the data %d \n", search);
-    }else{
-        printf("We could'nt found any data in this areas %d \n", search);
-    }
+    // int search = Search(34);
+    // if (search != -1)
+    // {
+    //     printf("I found the data %d \n", search);
+    // }else{
+    //     printf("We could'nt found any data in this areas %d \n", search);
+    // }
     
 
     return 0;
